@@ -1,7 +1,5 @@
 # Analyzing my Facebook Messages
 
-**CIS 545 Final Project**
-
 *By Grace Jiang*
 
 ## Introduction
