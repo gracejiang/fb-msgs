@@ -89,7 +89,7 @@ I started off by measuring some different metrics of my messaging history, such 
 
 ## 3. Diving a Little Deeper & Close Friends
 
-After looking at the the statistics  from my basic metric analysis, I decided I wanted to analyze my messaging habits over the years more closely.
+After looking at the the statistics  from my basic metric analysis, I decided to analyze my messaging habits over the years more closely.
 
 
 
