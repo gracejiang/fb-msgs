@@ -177,7 +177,7 @@ ax.legend(loc='best')
 
 ### Messages Received Over Time, Broken Down By Person
 
-![close-friends](/Users/gracejiang/Desktop/classes/cis545/proj/assets/close-friends.png)
+![close-friends](https://raw.githubusercontent.com/gracejiang/cis545/master/assets/close-friends.png)
 
 ### ...And After Removing Outliers...
 
@@ -205,7 +205,7 @@ ax.set_ylabel("number of messages")
 ax.legend(loc='best')
 ```
 
-![close-friends-2](/Users/gracejiang/Desktop/classes/cis545/proj/assets/close-friends-2.png)
+![close-friends-2](https://raw.githubusercontent.com/gracejiang/cis545/master/assets/close-friends-2.png)
 
 
 
@@ -288,19 +288,19 @@ def generate_wordcloud(df, title):
 
 **2012 Word Cloud**
 
-![wordcloud2012](/Users/gracejiang/Desktop/classes/cis545/proj/assets/wordcloud2012.png)
+![wordcloud2012](https://raw.githubusercontent.com/gracejiang/cis545/master/assets/wordcloud2012.png)
 
 *Note: The 'd' and '3' are most likely from 12-y/o me using ':D' and ':3' emoticons excessively*
 
 **2016 Word Cloud**
 
-![wordcloud2016](/Users/gracejiang/Desktop/classes/cis545/proj/assets/wordcloud2016.png)
+![wordcloud2016](https://raw.githubusercontent.com/gracejiang/cis545/master/assets/wordcloud2016.png)
 
 
 
 **2020 Word Cloud**
 
-![wordcloud2020](/Users/gracejiang/Desktop/classes/cis545/proj/assets/wordcloud2020.png)
+![wordcloud2020](https://raw.githubusercontent.com/gracejiang/cis545/master/assets/wordcloud2020.png)
 
 
 
@@ -355,7 +355,7 @@ Here were the results!
 
 ### Happiness Chart
 
-![happiness](/Users/gracejiang/Desktop/classes/cis545/proj/assets/happiness.png)
+![happiness](https://raw.githubusercontent.com/gracejiang/cis545/master/assets/happiness.png)
 
 *No idea why I was so sadboi in 2014. That was the year I started high school, so maybe that's partly why?*
 
@@ -369,7 +369,7 @@ Before writing the linear regression for messages between myself and AC, I decid
 
 **Messaging Trends**
 
-![ac](/Users/gracejiang/Desktop/classes/cis545/proj/assets/ac.png)
+![ac](https://raw.githubusercontent.com/gracejiang/cis545/master/assets/ac.png)
 
 
 
@@ -426,9 +426,9 @@ plt.show()
 
 **Resulting Linear Regression Charts**
 
-![lr-grac](/Users/gracejiang/Desktop/classes/cis545/proj/assets/lr-grac.png)
+![lr-grac](https://raw.githubusercontent.com/gracejiang/cis545/master/assets/lr-grac.png)
 
-![lr-ac](/Users/gracejiang/Desktop/classes/cis545/proj/assets/lr-ac.png)
+![lr-ac](https://raw.githubusercontent.com/gracejiang/cis545/master/assets/lr-ac.png)
 
 
 
