@@ -81,11 +81,11 @@ I started off by measuring some different metrics of my messaging history, such 
 
 **Most Messages Received From Contacts**:
 
-- Max Wu (288,850)
-- AC Bubba (68,547)
-- Carolyn Ge (59,101)
-- Richard Liu (48,384)
-- Oscar Hu (45,573)
+- M.W. (288,850)
+- A.C. (68,547)
+- C.G. (59,101)
+- R.L. (48,384)
+- O.H. (45,573)
 
 
 
