@@ -2,13 +2,13 @@
 
 **CIS 545 Final Project**
 
-*Grace Jiang*
+*By Grace Jiang*
 
 ## Introduction
 
 I've been using Facebook as my primary means of communicating with my friends and family since 2012. I decided to analyze my messaging habits and history over the past 8 years using Pandas.
 
-This project interests me since I want to analyze how frequently I talk to different friends throughout different periods of my life, as well as different metrics such as the average "duration" of my close friendships, how the language I have used has changed over time, and my "happiness" trends based off NLP analysis. My ultimate goal is to learn more about my messaging habits over the years. 
+This project interests me since I want to analyze how frequently I talk to different friends throughout different periods of my life, as well as different metrics such as how the language I have used has changed over time and my "happiness" trends based off NLP analysis. My ultimate goal is to learn more about my messaging habits over the years. 
 
 This project is open source, meaning anyone who downloads their own Facebook messenger data and uses my code should also be able to look at their own messaging trends over the years!
 
@@ -308,7 +308,7 @@ def generate_wordcloud(df, title):
 
 ### Happiness Trend over the Years
 
-After seeing the different language I've used over the years, I thought it would be interesting to analyze the general sentiment in my language. The messages I sent at the time were probably a good indicator of how positive/happy I was feeling at the time, so this would be a cool way to analyze how my happiness levels have changed over the years.
+After seeing the different language I've used over the years, I thought it would be interesting to analyze the general sentiment in my language. The messages I sent at the time are probably a good indicator of how positive/happy I was feeling at the time, so this would be a cool way to analyze how my happiness levels have changed over the years.
 
 After looking up several libraries online, I decided that the easiest way to do this was by using the library **TextBlob**.
 
