@@ -203,7 +203,7 @@ ax.set_ylabel("number of messages")
 ax.legend(loc='best')
 ```
 
-![close-friends-2](https://raw.githubusercontent.com/gracejiang/cis545/master/assets/close-friends-2.png)
+![close-friends-2](https://raw.githubusercontent.com/gracejiang/cis545/master/assets/close-friends-no-outliers.png)
 
 
 
