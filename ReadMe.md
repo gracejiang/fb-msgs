@@ -130,7 +130,7 @@ ax.legend(loc='best')
 
 ### Total Messages Sent and Received Over Time
 
-![total-msgs](/Users/gracejiang/Desktop/classes/cis545/proj/assets/total-msgs.png)
+![total-msgs](https://raw.githubusercontent.com/gracejiang/cis545/master/assets/total-msgs.png)
 
 
 
