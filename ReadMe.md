@@ -14,7 +14,7 @@ This project is open source, meaning anyone who downloads their own Facebook mes
 
 ## 1. Data Acquisition & Cleaning
 
-Facebook allows its users to download their user data in their settings tab. The data comes as one large folder that contains one folder per conversations, and each of those folders contain one or more json files that store the conversation history. 
+Facebook allows its users to download their user data in their settings tab. The data comes as one large folder that contains one folder per conversation, with each of those folders containing one or more json files that store the conversation history. 
 
 I loaded all the data into one big dataframe by looping through the root directory and reading in any files that matched the "*.json" extension.
 
